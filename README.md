@@ -1,7 +1,7 @@
 # Refs App
-Refs is a service for developing creativity through photo tutorials. In addition to the [web version](https://github.com/HSEADC/B21DZ09-L3-Project-04) Refs now has an iOS mobile app that is almost ready for release and upload to the App Store. Now it's even easier to participate in photo sessions and develop your creativity. Choose the category you like, search for ref-like objects in your environment, upload your photos and be inspired by other people's finds.
+Refs is a service for developing creativity through photo tutorials. In addition to the [web version](https://github.com/HSEADC/B21DZ09-L3-Project-04) Refs now has an iOS mobile app that is almost ready for release and upload to the App Store. Now it's even easier to participate in photo sessions and develop your creativity.
 
-![logo](https://i.postimg.cc/90Ftxyzq/Frame-632790.png)
+![logo](https://i.postimg.cc/B6vXkpcs/Frame-632790.png)
 
 ## Built with
 
