@@ -14,3 +14,4 @@ Refs is a service for developing creativity through photo tutorials. In addition
 * **Ekaterina Nikiforova** — frontend and backend developer, product designer ([github](https://github.com/Kef1r1k), [behance](https://www.behance.net/NikiforovaEkaterina), [tg](https://t.me/Katato_potato))
 * **Tatyana Morguleva** — product designer ([behance](https://www.behance.net/tauta), [tg](https://t.me/tauta_inka))
 
+### Follow us here and join Refs [telegram channel](https://t.me/reeeefs) :blue_heart:
